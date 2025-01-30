@@ -6,7 +6,7 @@
 const MarDev = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, PHP],
-  database [MYSQL],
+  database: [MYSQL],
   tools: [Symfony, Bootstrap, VS, Docker],
   passions: [Create technological experiences]
 }
